@@ -42,7 +42,7 @@ To run the projects in this repository, you need the following requirements:
 1. **Gather vs TaskGroup**
 2. **Convert Blocking Function to Async**
 3. **Pokemon API**
-4. **04 IOT Example**
+4. **IOT Example**
 
 ### Example Code Snippet
 
